@@ -1,3 +1,5 @@
+<img src="drunbies.png" />
+
 Setup
 -------------------
 Zombie apocalypse has started and you're trapped behind your bar. Your only way of survival is serving beer to zombies. Drunk zombies loose the rest of their cognitive capacity and are thereofre incapicitated.
